@@ -15,7 +15,7 @@
     "express-handlebars": "^3.1.0",
     "method-override": "^3.0.0",
     "mongoose": "^5.5.13",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "response-time": "^2.3.2"
   }
 }
